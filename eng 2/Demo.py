@@ -1,4 +1,2 @@
-string="Hello world"
-string1="Hello"
+string="Hello "
 print (string)
-print(string1)
